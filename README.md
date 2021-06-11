@@ -1,6 +1,6 @@
 # STQA-Mini-Project
 
-Software Testing and Quality Assurance Mini Project
+Software Testing and Quality Assurance Mini Project (BE Sem 1)
 
 - Online Shopping Portal (Desktop application) using Java AWT and Swing Components
 
